@@ -1,0 +1,6 @@
+{
+  "name": "MasterPro - Paid Course & Creator Hub",
+  "description": "All-in-one platform for paid courses, premium learning, member dashboard, and verified admin portal to publish videos, photos, documents, and APKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
